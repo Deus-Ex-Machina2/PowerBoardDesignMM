@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "HUSB237-AA001-DN06R")(type "KiCad")(uri "C:/Users/RafIc/OneDrive - University of Cape Town/EEE3088 - Design/MicroMouse Power Board/PowerBoardDesignMM/SchematicLibrary/HUSB237-AA001-DN06R.pretty")(options "")(descr ""))
   (lib (name "SlideSwitch")(type "KiCad")(uri "C:/Users/RafIc/OneDrive - University of Cape Town/EEE3088 - Design/MicroMouse Power Board/PowerBoardDesignMM/SchematicLibrary/SlideSwitch.pretty")(options "")(descr ""))
+  (lib (name "CustomInductor12.5x12.5mm")(type "KiCad")(uri "C:/Users/RafIc/OneDrive - University of Cape Town/EEE3088 - Design/MicroMouse Power Board/PowerBoardDesignMM/SchematicLibrary/CustomInductor12.5x12.5mm.pretty")(options "")(descr ""))
+  (lib (name "FerriteBeadCustom")(type "KiCad")(uri "C:/Users/RafIc/OneDrive - University of Cape Town/EEE3088 - Design/MicroMouse Power Board/PowerBoardDesignMM/SchematicLibrary/FerriteBeadCustom.pretty")(options "")(descr ""))
 )
