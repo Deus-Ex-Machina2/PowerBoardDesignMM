@@ -6447,6 +6447,12 @@
 		(uuid "1094ca9f-f26c-4a92-a57c-0ac439612df0")
 	)
 	(junction
+		(at 328.93 203.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "13398979-7a74-457e-9438-9bae4e054b10")
+	)
+	(junction
 		(at 53.34 222.25)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6511,6 +6517,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4ba9deb7-c0c5-43b9-acde-f52dd8455e07")
+	)
+	(junction
+		(at 304.8 212.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4dfd6e70-5dc6-44b1-b81f-8cd33177973b")
 	)
 	(junction
 		(at 331.47 46.99)
@@ -6843,12 +6855,20 @@
 		(uuid "0fb86c15-ce84-4eff-abad-edcbe592f0e3")
 	)
 	(no_connect
+		(at 378.46 38.1)
+		(uuid "1c537e52-6f00-46b0-b7f2-a091fe561637")
+	)
+	(no_connect
 		(at 342.9 43.18)
 		(uuid "1e0c3ead-81b8-4d30-9d78-cb9197f1de45")
 	)
 	(no_connect
 		(at 30.48 33.02)
 		(uuid "2137c61d-320a-47c6-93e2-16f444b40a5d")
+	)
+	(no_connect
+		(at 342.9 30.48)
+		(uuid "240a20d9-0da9-4ee3-b3eb-f9b6013ed974")
 	)
 	(no_connect
 		(at 87.63 256.54)
@@ -7142,6 +7162,16 @@
 	)
 	(wire
 		(pts
+			(xy 328.93 203.2) (xy 335.28 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13cc9868-8863-497f-a4cb-da6fb43a8675")
+	)
+	(wire
+		(pts
 			(xy 80.01 142.24) (xy 80.01 143.51)
 		)
 		(stroke
@@ -7209,16 +7239,6 @@
 			(type default)
 		)
 		(uuid "1b31c8b4-23d7-48a3-9158-e845ff0d368e")
-	)
-	(wire
-		(pts
-			(xy 342.9 30.48) (xy 340.36 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1cdbd6a9-9de1-4b74-91e5-43adb00603b0")
 	)
 	(wire
 		(pts
@@ -7339,6 +7359,16 @@
 			(type default)
 		)
 		(uuid "275bc723-b2eb-4064-bf5f-730fadc8d807")
+	)
+	(wire
+		(pts
+			(xy 328.93 203.2) (xy 328.93 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "283185ba-95b3-475c-9147-ca894c08fc3b")
 	)
 	(wire
 		(pts
@@ -7712,6 +7742,16 @@
 	)
 	(wire
 		(pts
+			(xy 304.8 212.09) (xy 304.8 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4819fe6e-b369-4b62-b445-59507b3a0072")
+	)
+	(wire
+		(pts
 			(xy 172.72 171.45) (xy 167.64 171.45)
 		)
 		(stroke
@@ -7932,6 +7972,16 @@
 	)
 	(wire
 		(pts
+			(xy 297.18 212.09) (xy 304.8 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5fd352b5-840a-4524-a61b-91fbc7891e60")
+	)
+	(wire
+		(pts
 			(xy 297.18 201.93) (xy 304.8 201.93)
 		)
 		(stroke
@@ -7992,7 +8042,7 @@
 	)
 	(wire
 		(pts
-			(xy 304.8 207.01) (xy 304.8 217.17)
+			(xy 304.8 207.01) (xy 304.8 212.09)
 		)
 		(stroke
 			(width 0)
@@ -8092,16 +8142,6 @@
 	)
 	(wire
 		(pts
-			(xy 378.46 38.1) (xy 389.89 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "732c09f7-5639-44b1-b411-9300be975949")
-	)
-	(wire
-		(pts
 			(xy 232.41 151.13) (xy 219.71 151.13)
 		)
 		(stroke
@@ -8162,6 +8202,16 @@
 	)
 	(wire
 		(pts
+			(xy 304.8 212.09) (xy 311.15 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "781c5ec6-2c2b-4dbd-bba5-969809f76ec8")
+	)
+	(wire
+		(pts
 			(xy 50.8 212.09) (xy 50.8 217.17)
 		)
 		(stroke
@@ -8169,16 +8219,6 @@
 			(type default)
 		)
 		(uuid "781dff05-9edb-4bc9-aa8f-125442303999")
-	)
-	(wire
-		(pts
-			(xy 334.01 24.13) (xy 334.01 25.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7b254bb6-5dd3-480d-8368-5f907af48bfb")
 	)
 	(wire
 		(pts
@@ -8212,16 +8252,6 @@
 	)
 	(wire
 		(pts
-			(xy 297.18 212.09) (xy 311.15 212.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "81204de4-17ba-47dd-9003-9f699ff46a7f")
-	)
-	(wire
-		(pts
 			(xy 361.95 35.56) (xy 361.95 31.75)
 		)
 		(stroke
@@ -8232,7 +8262,7 @@
 	)
 	(wire
 		(pts
-			(xy 328.93 198.12) (xy 328.93 207.01)
+			(xy 328.93 198.12) (xy 328.93 203.2)
 		)
 		(stroke
 			(width 0)
@@ -8379,16 +8409,6 @@
 			(type default)
 		)
 		(uuid "8bc42838-cbb0-4a9d-9fc7-32d9e577053f")
-	)
-	(wire
-		(pts
-			(xy 321.31 203.2) (xy 335.28 203.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8c652b90-f88c-4eaa-b8d6-400678826373")
 	)
 	(wire
 		(pts
@@ -8659,6 +8679,16 @@
 			(type default)
 		)
 		(uuid "a90ad7de-b9d0-4a9e-bb07-82badf642d2d")
+	)
+	(wire
+		(pts
+			(xy 321.31 203.2) (xy 328.93 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9680931-5f28-4a33-b1ce-fbab3e7fa6a9")
 	)
 	(wire
 		(pts
@@ -9009,16 +9039,6 @@
 			(type default)
 		)
 		(uuid "c3eda5e3-1637-4d2c-b9db-306e6dd63eb5")
-	)
-	(wire
-		(pts
-			(xy 340.36 24.13) (xy 334.01 24.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c486b4a8-c80e-4575-afaf-602566712160")
 	)
 	(wire
 		(pts
@@ -9439,16 +9459,6 @@
 			(type default)
 		)
 		(uuid "ee2e979e-8599-417f-9929-de6e8e9001c1")
-	)
-	(wire
-		(pts
-			(xy 340.36 30.48) (xy 340.36 24.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "efaff280-792c-4171-adb9-70f6e8133591")
 	)
 	(wire
 		(pts
@@ -15433,84 +15443,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 389.89 40.64 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6401afee-a795-407e-b7dd-6d0f2576d6cc")
-		(property "Reference" "R21"
-			(at 392.43 39.3699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1M"
-			(at 392.43 41.9099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 389.89 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 389.89 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small US symbol"
-			(at 389.89 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C22935"
-			(at 389.89 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "029bba3e-6441-4ca0-a299-9bdb45383c59")
-		)
-		(pin "1"
-			(uuid "ebd98d2d-e996-4bf2-86eb-f3432958f277")
-		)
-		(instances
-			(project "MMPOwerBoardKiCAD9Version"
-				(path "/23b21de8-5207-4e61-b362-6de1163568fa"
-					(reference "R21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 303.53 106.68 0)
 		(unit 1)
@@ -16293,72 +16225,6 @@
 			(project ""
 				(path "/23b21de8-5207-4e61-b362-6de1163568fa"
 					(reference "R14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 389.89 43.18 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7ae38d60-4ffd-47eb-b7ca-fa2ed62c7059")
-		(property "Reference" "#PWR032"
-			(at 389.89 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 389.89 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 389.89 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 389.89 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 389.89 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "62c1a98e-9450-464f-9625-bfbe92636e74")
-		)
-		(instances
-			(project "MMPOwerBoardKiCAD9Version"
-				(path "/23b21de8-5207-4e61-b362-6de1163568fa"
-					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -18725,72 +18591,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 334.01 30.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a9010399-3b82-4188-b30c-f23cfea91bf0")
-		(property "Reference" "#PWR033"
-			(at 334.01 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 334.01 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 334.01 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 334.01 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 334.01 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6d085c89-4b56-4ead-b892-5067434f1042")
-		)
-		(instances
-			(project "MMPOwerBoardKiCAD9Version"
-				(path "/23b21de8-5207-4e61-b362-6de1163568fa"
-					(reference "#PWR033")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 356.87 121.92 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20302,84 +20102,6 @@
 			(project "MMPOwerBoardKiCAD9Version"
 				(path "/23b21de8-5207-4e61-b362-6de1163568fa"
 					(reference "C4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 334.01 27.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c8372461-263b-48b4-b1e7-e10791994eab")
-		(property "Reference" "R22"
-			(at 336.55 26.6699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1M"
-			(at 336.55 29.2099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 334.01 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 334.01 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small US symbol"
-			(at 334.01 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C22935"
-			(at 334.01 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "682c483f-a890-441d-9ab1-73e8d149cc27")
-		)
-		(pin "1"
-			(uuid "e731c74e-fb0d-4384-99fc-ab43df9588bc")
-		)
-		(instances
-			(project "MMPOwerBoardKiCAD9Version"
-				(path "/23b21de8-5207-4e61-b362-6de1163568fa"
-					(reference "R22")
 					(unit 1)
 				)
 			)
