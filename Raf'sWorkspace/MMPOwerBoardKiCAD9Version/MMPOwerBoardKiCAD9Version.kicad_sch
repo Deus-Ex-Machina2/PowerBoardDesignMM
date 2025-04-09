@@ -16538,7 +16538,7 @@
 				)
 			)
 		)
-		(property "Value" "TYPE-C-31-M-04"
+		(property "Value" "TYPE-C-31-M-12"
 			(at 360.68 17.78 0)
 			(effects
 				(font
@@ -16546,7 +16546,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TYPE-C-31-M-04:HRO_TYPE-C-31-M-04"
+		(property "Footprint" "TYPE-C-31-M-04:USB-C_SMD-TYPE-C-31-M-12"
 			(at 360.68 35.56 0)
 			(effects
 				(font
@@ -16694,7 +16694,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C129018"
+		(property "LCSC" "C165948"
 			(at 360.68 35.56 0)
 			(effects
 				(font
