@@ -38,7 +38,7 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.8,
-          "height": 1.8,
+          "height": 2.0,
           "width": 1.2
         },
         "silk_line_width": 0.1,
@@ -61,14 +61,6 @@
       "drc_exclusions": [
         [
           "clearance|212191151|56890000|972346d5-f234-434e-a56b-9d83d4f2b428|a6bbc8ef-ddaa-4cff-a0e8-c8a83a65af1e",
-          ""
-        ],
-        [
-          "silk_edge_clearance|243500000|80943000|3a1e368e-cb1e-423f-8902-3b2c4fa7455a|c41f9d7c-795b-4927-854c-1f8e1b767cba",
-          ""
-        ],
-        [
-          "silk_edge_clearance|243500000|84850000|3a1e368e-cb1e-423f-8902-3b2c4fa7455a|8ef7a7e9-1241-49bd-af20-2bc15ef764ba",
           ""
         ]
       ],
