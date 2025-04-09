@@ -10671,7 +10671,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DRV8833PWPR:IC_DRV8833PWPR"
+		(property "Footprint" "Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm"
 			(at 196.85 179.07 0)
 			(effects
 				(font
@@ -12387,7 +12387,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DRV8833PWPR:IC_DRV8833PWPR"
+		(property "Footprint" "Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm"
 			(at 270.51 179.07 0)
 			(effects
 				(font
